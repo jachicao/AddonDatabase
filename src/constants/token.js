@@ -1,0 +1,4 @@
+export const TOKEN_VALIDATION                         = 'TOKEN_VALIDATION';
+export const TOKEN_VALIDATION_PENDING                 = 'TOKEN_VALIDATION_PENDING';
+export const TOKEN_VALIDATION_REJECTED                = 'TOKEN_VALIDATION_REJECTED';
+export const TOKEN_VALIDATION_FULFILLED               = 'TOKEN_VALIDATION_FULFILLED';

@@ -1,0 +1,4 @@
+export const ADDON_ENUM_STATUS                        = 'ADDON_ENUM_STATUS';
+export const ADDON_ENUM_STATUS_PENDING                = 'ADDON_ENUM_STATUS_PENDING';
+export const ADDON_ENUM_STATUS_REJECTED               = 'ADDON_ENUM_STATUS_REJECTED';
+export const ADDON_ENUM_STATUS_FULFILLED              = 'ADDON_ENUM_STATUS_FULFILLED';
